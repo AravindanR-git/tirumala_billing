@@ -19,7 +19,7 @@ import Materials from "./pages/Materials";
 import Printer from "./pages/Printer";
 import Printer2 from "./pages/Printer2";
 import History from "./pages/History";
-import Password from "./pages/password"; 
+import Password from "./pages/Password"; 
 import GenerateCustomBill from "./pages/GenerateCustomBill";
 import GenerateCustomBill2 from "./pages/GenerateCustomBill2";
 export const AppPasswordContext = createContext();
