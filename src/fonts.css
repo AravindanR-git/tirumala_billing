@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "ConsolasPOS";
+  src: url("./assets/fonts/Consolas-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Force usage */
+.bill-container {
+  font-family: ConsolasPOS, monospace !important;
+}

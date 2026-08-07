@@ -1,0 +1,6 @@
+{
+  "appId": "com.aravind.truckbilling",
+  "appName": "tirumala",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

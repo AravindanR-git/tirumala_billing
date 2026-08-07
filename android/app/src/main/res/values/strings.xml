@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tirumala</string>
+    <string name="title_activity_main">tirumala</string>
+    <string name="package_name">com.aravind.truckbilling</string>
+    <string name="custom_url_scheme">com.aravind.truckbilling</string>
+</resources>

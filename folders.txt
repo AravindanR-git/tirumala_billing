@@ -1,0 +1,3139 @@
+Folder PATH listing
+Volume serial number is 10ED-4019
+G:.
+ÃÄÄÄ.vscode
+ÃÄÄÄandroid
+³   ÃÄÄÄ.gradle
+³   ³   ÃÄÄÄ8.11.1
+³   ³   ³   ÃÄÄÄchecksums
+³   ³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³   ÃÄÄÄexpanded
+³   ³   ³   ÃÄÄÄfileChanges
+³   ³   ³   ÃÄÄÄfileHashes
+³   ³   ³   ÀÄÄÄvcsMetadata
+³   ³   ÃÄÄÄbuildOutputCleanup
+³   ³   ÀÄÄÄvcs-1
+³   ÃÄÄÄ.idea
+³   ³   ÀÄÄÄcaches
+³   ÃÄÄÄapp
+³   ³   ÃÄÄÄbuild
+³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³       ³       ÀÄÄÄdrawable-anydpi-v24
+³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ÃÄÄÄaar_metadata_check
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄcheckDebugAarMetadata
+³   ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³   ³   ÃÄÄÄcompatible_screen_manifest
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄcreateDebugCompatibleScreenManifests
+³   ³   ³   ³   ÃÄÄÄcompile_and_runtime_not_namespaced_r_class_jar
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_merge
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄmergeDebugResources
+³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÃÄÄÄmergeDebugResources
+³   ³   ³   ³   ³       ³   ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-af
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-am
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ar
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-as
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-az
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-b+sr+Latn
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-be
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-bg
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-bn
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-bs
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ca
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-cs
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-da
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-de
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-el
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-en-rAU
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-en-rCA
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-en-rGB
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-en-rIN
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-en-rXC
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-es
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-es-rUS
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-et
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-eu
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-fa
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-fi
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-fr
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-fr-rCA
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-gl
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-gu
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-h720dp-v13
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-hdpi-v4
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-hi
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-hr
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-hu
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-hy
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-in
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-is
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-it
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-iw
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ja
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ka
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-kk
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-km
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-kn
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ko
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ky
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-land
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-large-v4
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ldltr-v21
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-lo
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-lt
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-lv
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-mk
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ml
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-mn
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-mr
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ms
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-my
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-nb
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ne
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-night-v8
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-nl
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-or
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-pa
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-pl
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-port
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-pt
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-pt-rBR
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-pt-rPT
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ro
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ru
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-si
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sk
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sl
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sq
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sr
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sv
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sw
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-sw600dp-v13
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ta
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-te
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-th
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-tl
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-tr
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-uk
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-ur
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-uz
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v16
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v17
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v18
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v21
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v22
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v23
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v24
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v25
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v26
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v27
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v28
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v29
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-v31
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-vi
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-watch-v20
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-watch-v21
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-xlarge-v4
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-zh-rCN
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-zh-rHK
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄvalues-zh-rTW
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄvalues-zu
+³   ³   ³   ³   ³       ³   ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³           ³   ÀÄÄÄvalues
+³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ÃÄÄÄlinked_resources_binary_format
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugMainManifest
+³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugMainManifest
+³   ³   ³   ³   ÃÄÄÄmerged_manifests
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ÃÄÄÄmerged_res
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄmergeDebugResources
+³   ³   ³   ³   ÃÄÄÄmerged_res_blame_folder
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄmergeDebugResources
+³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³               ÃÄÄÄmulti-v2
+³   ³   ³   ³   ³               ÀÄÄÄsingle
+³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ÃÄÄÄpackaged_manifests
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifestForPackage
+³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³           ÃÄÄÄdrawable
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-land-hdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-land-mdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-land-xhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-land-xxhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-land-xxxhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-port-hdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-port-mdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-port-xhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-port-xxhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-port-xxxhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄdrawable-v24
+³   ³   ³   ³   ³           ÃÄÄÄlayout
+³   ³   ³   ³   ³           ÃÄÄÄmipmap-anydpi-v26
+³   ³   ³   ³   ³           ÃÄÄÄmipmap-hdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄmipmap-mdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄmipmap-xhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄmipmap-xxhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄmipmap-xxxhdpi-v4
+³   ³   ³   ³   ³           ÃÄÄÄvalues
+³   ³   ³   ³   ³           ÀÄÄÄxml
+³   ³   ³   ³   ÃÄÄÄruntime_symbol_list
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³   ÃÄÄÄsource_set_path_map
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄmapDebugSourceSetPaths
+³   ³   ³   ³   ÃÄÄÄstable_resource_ids_file
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³           ÀÄÄÄprocessDebugResources
+³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³       ÀÄÄÄlogs
+³   ³   ÀÄÄÄsrc
+³   ³       ÃÄÄÄandroidTest
+³   ³       ³   ÀÄÄÄjava
+³   ³       ³       ÀÄÄÄcom
+³   ³       ³           ÀÄÄÄgetcapacitor
+³   ³       ³               ÀÄÄÄmyapp
+³   ³       ÃÄÄÄmain
+³   ³       ³   ÃÄÄÄassets
+³   ³       ³   ³   ÀÄÄÄpublic
+³   ³       ³   ³       ÃÄÄÄapks
+³   ³       ³   ³       ÃÄÄÄassets
+³   ³       ³   ³       ÃÄÄÄfonts
+³   ³       ³   ³       ÃÄÄÄimages
+³   ³       ³   ³       ÀÄÄÄplugins
+³   ³       ³   ³           ÃÄÄÄcordova-plugin-android-permissions
+³   ³       ³   ³           ³   ÀÄÄÄwww
+³   ³       ³   ³           ÃÄÄÄcordova-plugin-file
+³   ³       ³   ³           ³   ÀÄÄÄwww
+³   ³       ³   ³           ³       ÃÄÄÄandroid
+³   ³       ³   ³           ³       ÀÄÄÄbrowser
+³   ³       ³   ³           ÃÄÄÄcordova-plugin-file-opener2
+³   ³       ³   ³           ³   ÀÄÄÄwww
+³   ³       ³   ³           ÀÄÄÄcordova-plugin-printer
+³   ³       ³   ³               ÀÄÄÄwww
+³   ³       ³   ÃÄÄÄjava
+³   ³       ³   ³   ÀÄÄÄcom
+³   ³       ³   ³       ÀÄÄÄaravind
+³   ³       ³   ³           ÀÄÄÄtruckbilling
+³   ³       ³   ÀÄÄÄres
+³   ³       ³       ÃÄÄÄdrawable
+³   ³       ³       ÃÄÄÄdrawable-land-hdpi
+³   ³       ³       ÃÄÄÄdrawable-land-mdpi
+³   ³       ³       ÃÄÄÄdrawable-land-xhdpi
+³   ³       ³       ÃÄÄÄdrawable-land-xxhdpi
+³   ³       ³       ÃÄÄÄdrawable-land-xxxhdpi
+³   ³       ³       ÃÄÄÄdrawable-port-hdpi
+³   ³       ³       ÃÄÄÄdrawable-port-mdpi
+³   ³       ³       ÃÄÄÄdrawable-port-xhdpi
+³   ³       ³       ÃÄÄÄdrawable-port-xxhdpi
+³   ³       ³       ÃÄÄÄdrawable-port-xxxhdpi
+³   ³       ³       ÃÄÄÄdrawable-v24
+³   ³       ³       ÃÄÄÄlayout
+³   ³       ³       ÃÄÄÄmipmap-anydpi-v26
+³   ³       ³       ÃÄÄÄmipmap-hdpi
+³   ³       ³       ÃÄÄÄmipmap-mdpi
+³   ³       ³       ÃÄÄÄmipmap-xhdpi
+³   ³       ³       ÃÄÄÄmipmap-xxhdpi
+³   ³       ³       ÃÄÄÄmipmap-xxxhdpi
+³   ³       ³       ÃÄÄÄvalues
+³   ³       ³       ÀÄÄÄxml
+³   ³       ÀÄÄÄtest
+³   ³           ÀÄÄÄjava
+³   ³               ÀÄÄÄcom
+³   ³                   ÀÄÄÄgetcapacitor
+³   ³                       ÀÄÄÄmyapp
+³   ÃÄÄÄbuild
+³   ³   ÀÄÄÄreports
+³   ³       ÀÄÄÄproblems
+³   ÃÄÄÄcapacitor-cordova-android-plugins
+³   ³   ÃÄÄÄbuild
+³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ÃÄÄÄap_generated_sources
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ÃÄÄÄjavac
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄcompileDebugJavaWithJavac
+³   ³   ³   ³   ³           ÀÄÄÄclasses
+³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³           ÀÄÄÄxml
+³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ÃÄÄÄoutputs
+³   ³   ³   ³   ÀÄÄÄlogs
+³   ³   ³   ÀÄÄÄtmp
+³   ³   ³       ÀÄÄÄcompileDebugJavaWithJavac
+³   ³   ÀÄÄÄsrc
+³   ³       ÀÄÄÄmain
+³   ³           ÃÄÄÄjava
+³   ³           ³   ÃÄÄÄcom
+³   ³           ³   ³   ÀÄÄÄandroid
+³   ³           ³   ³       ÀÄÄÄplugins
+³   ³           ³   ÃÄÄÄde
+³   ³           ³   ³   ÀÄÄÄappplant
+³   ³           ³   ³       ÀÄÄÄcordova
+³   ³           ³   ³           ÀÄÄÄplugin
+³   ³           ³   ³               ÀÄÄÄprinter
+³   ³           ³   ÃÄÄÄio
+³   ³           ³   ³   ÀÄÄÄgithub
+³   ³           ³   ³       ÀÄÄÄpwlin
+³   ³           ³   ³           ÀÄÄÄcordova
+³   ³           ³   ³               ÀÄÄÄplugins
+³   ³           ³   ³                   ÀÄÄÄfileopener2
+³   ³           ³   ÀÄÄÄorg
+³   ³           ³       ÀÄÄÄapache
+³   ³           ³           ÀÄÄÄcordova
+³   ³           ³               ÀÄÄÄfile
+³   ³           ÀÄÄÄres
+³   ³               ÀÄÄÄxml
+³   ÀÄÄÄgradle
+³       ÀÄÄÄwrapper
+ÃÄÄÄdist
+³   ÃÄÄÄapks
+³   ÃÄÄÄassets
+³   ÃÄÄÄfonts
+³   ÀÄÄÄimages
+ÃÄÄÄnode_modules
+³   ÃÄÄÄ.bin
+³   ÃÄÄÄ.vite
+³   ³   ÀÄÄÄdeps
+³   ÃÄÄÄ.vite-temp
+³   ÃÄÄÄ@awesome-cordova-plugins
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÀÄÄÄdecorators
+³   ³   ÃÄÄÄfile
+³   ³   ³   ÀÄÄÄngx
+³   ³   ÃÄÄÄfile-opener
+³   ³   ³   ÀÄÄÄngx
+³   ³   ÀÄÄÄprinter
+³   ³       ÀÄÄÄngx
+³   ÃÄÄÄ@babel
+³   ³   ÃÄÄÄcode-frame
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄcompat-data
+³   ³   ³   ÀÄÄÄdata
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÃÄÄÄconfig
+³   ³   ³   ³   ³   ÃÄÄÄfiles
+³   ³   ³   ³   ³   ÃÄÄÄhelpers
+³   ³   ³   ³   ³   ÀÄÄÄvalidation
+³   ³   ³   ³   ÃÄÄÄerrors
+³   ³   ³   ³   ÃÄÄÄgensync-utils
+³   ³   ³   ³   ÃÄÄÄparser
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÃÄÄÄtools
+³   ³   ³   ³   ÃÄÄÄtransformation
+³   ³   ³   ³   ³   ÃÄÄÄfile
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÀÄÄÄvendor
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ³       ÀÄÄÄconfig
+³   ³   ³           ÀÄÄÄfiles
+³   ³   ÃÄÄÄgenerator
+³   ³   ³   ÀÄÄÄlib
+³   ³   ³       ÃÄÄÄgenerators
+³   ³   ³       ÀÄÄÄnode
+³   ³   ÃÄÄÄhelper-compilation-targets
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-globals
+³   ³   ³   ÀÄÄÄdata
+³   ³   ÃÄÄÄhelper-module-imports
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-module-transforms
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-plugin-utils
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-string-parser
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-validator-identifier
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-validator-option
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelpers
+³   ³   ³   ÀÄÄÄlib
+³   ³   ³       ÀÄÄÄhelpers
+³   ³   ÃÄÄÄparser
+³   ³   ³   ÃÄÄÄbin
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄtypings
+³   ³   ÃÄÄÄplugin-transform-react-jsx-self
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄplugin-transform-react-jsx-source
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄruntime
+³   ³   ³   ÃÄÄÄhelpers
+³   ³   ³   ³   ÀÄÄÄesm
+³   ³   ³   ÀÄÄÄregenerator
+³   ³   ÃÄÄÄtemplate
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄtraverse
+³   ³   ³   ÀÄÄÄlib
+³   ³   ³       ÃÄÄÄpath
+³   ³   ³       ³   ÃÄÄÄinference
+³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³       ÀÄÄÄscope
+³   ³   ³           ÀÄÄÄlib
+³   ³   ÀÄÄÄtypes
+³   ³       ÀÄÄÄlib
+³   ³           ÃÄÄÄasserts
+³   ³           ³   ÀÄÄÄgenerated
+³   ³           ÃÄÄÄast-types
+³   ³           ³   ÀÄÄÄgenerated
+³   ³           ÃÄÄÄbuilders
+³   ³           ³   ÃÄÄÄflow
+³   ³           ³   ÃÄÄÄgenerated
+³   ³           ³   ÃÄÄÄreact
+³   ³           ³   ÀÄÄÄtypescript
+³   ³           ÃÄÄÄclone
+³   ³           ÃÄÄÄcomments
+³   ³           ÃÄÄÄconstants
+³   ³           ³   ÀÄÄÄgenerated
+³   ³           ÃÄÄÄconverters
+³   ³           ÃÄÄÄdefinitions
+³   ³           ÃÄÄÄmodifications
+³   ³           ³   ÃÄÄÄflow
+³   ³           ³   ÀÄÄÄtypescript
+³   ³           ÃÄÄÄretrievers
+³   ³           ÃÄÄÄtraverse
+³   ³           ÃÄÄÄutils
+³   ³           ³   ÀÄÄÄreact
+³   ³           ÀÄÄÄvalidators
+³   ³               ÃÄÄÄgenerated
+³   ³               ÀÄÄÄreact
+³   ÃÄÄÄ@bcyesil
+³   ³   ÀÄÄÄcapacitor-plugin-printer
+³   ³       ÃÄÄÄandroid
+³   ³       ³   ÃÄÄÄ.settings
+³   ³       ³   ÃÄÄÄbuild
+³   ³       ³   ³   ÃÄÄÄgenerated
+³   ³       ³   ³   ³   ÀÄÄÄres
+³   ³       ³   ³   ³       ÃÄÄÄpngs
+³   ³       ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³       ÀÄÄÄresValues
+³   ³       ³   ³   ³           ÀÄÄÄdebug
+³   ³       ³   ³   ÃÄÄÄintermediates
+³   ³       ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³       ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³       ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³       ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³       ³   ³   ³   ³           ÀÄÄÄout
+³   ³       ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ³           ÀÄÄÄout
+³   ³       ³   ³   ³   ÃÄÄÄincremental
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³       ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³       ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³       ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³       ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³       ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ÃÄÄÄpublic_res
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³       ³   ³   ³       ÀÄÄÄdebug
+³   ³       ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ÀÄÄÄoutputs
+³   ³       ³   ³       ÀÄÄÄlogs
+³   ³       ³   ÀÄÄÄsrc
+³   ³       ³       ÀÄÄÄmain
+³   ³       ³           ÃÄÄÄjava
+³   ³       ³           ³   ÀÄÄÄcom
+³   ³       ³           ³       ÀÄÄÄbcyesil
+³   ³       ³           ³           ÀÄÄÄcapacitor
+³   ³       ³           ³               ÀÄÄÄprinter
+³   ³       ³           ÀÄÄÄres
+³   ³       ÃÄÄÄdist
+³   ³       ³   ÀÄÄÄesm
+³   ³       ÀÄÄÄios
+³   ³           ÀÄÄÄPlugin
+³   ÃÄÄÄ@capacitor
+³   ³   ÃÄÄÄandroid
+³   ³   ³   ÀÄÄÄcapacitor
+³   ³   ³       ÃÄÄÄ.settings
+³   ³   ³       ÃÄÄÄbuild
+³   ³   ³       ³   ÃÄÄÄgenerated
+³   ³   ³       ³   ³   ÃÄÄÄap_generated_sources
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄout
+³   ³   ³       ³   ³   ÀÄÄÄres
+³   ³   ³       ³   ³       ÃÄÄÄpngs
+³   ³   ³       ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³       ÀÄÄÄresValues
+³   ³   ³       ³   ³           ÀÄÄÄdebug
+³   ³   ³       ³   ÃÄÄÄintermediates
+³   ³   ³       ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³       ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³       ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³       ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³       ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³       ³   ³   ³           ÀÄÄÄout
+³   ³   ³       ³   ³   ÃÄÄÄcompile_library_classes_jar
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄbundleLibCompileToJarDebug
+³   ³   ³       ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³       ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³       ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³       ³   ³   ³           ÀÄÄÄout
+³   ³   ³       ³   ³   ÃÄÄÄincremental
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³       ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³       ³   ³   ³           ³   ÀÄÄÄvalues
+³   ³   ³       ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³       ³   ³   ÃÄÄÄjavac
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄcompileDebugJavaWithJavac
+³   ³   ³       ³   ³   ³           ÀÄÄÄclasses
+³   ³   ³       ³   ³   ³               ÀÄÄÄcom
+³   ³   ³       ³   ³   ³                   ÀÄÄÄgetcapacitor
+³   ³   ³       ³   ³   ³                       ÃÄÄÄannotation
+³   ³   ³       ³   ³   ³                       ÃÄÄÄcordova
+³   ³   ³       ³   ³   ³                       ÃÄÄÄplugin
+³   ³   ³       ³   ³   ³                       ³   ÀÄÄÄutil
+³   ³   ³       ³   ³   ³                       ÀÄÄÄutil
+³   ³   ³       ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³       ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³       ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³       ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³       ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³       ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³       ³   ³   ³           ÃÄÄÄlayout
+³   ³   ³       ³   ³   ³           ÀÄÄÄvalues
+³   ³   ³       ³   ³   ÃÄÄÄpublic_res
+³   ³   ³       ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³       ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³       ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³       ³   ³       ÀÄÄÄdebug
+³   ³   ³       ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³       ³   ÃÄÄÄoutputs
+³   ³   ³       ³   ³   ÀÄÄÄlogs
+³   ³   ³       ³   ÀÄÄÄtmp
+³   ³   ³       ³       ÀÄÄÄcompileDebugJavaWithJavac
+³   ³   ³       ÀÄÄÄsrc
+³   ³   ³           ÀÄÄÄmain
+³   ³   ³               ÃÄÄÄassets
+³   ³   ³               ÃÄÄÄjava
+³   ³   ³               ³   ÀÄÄÄcom
+³   ³   ³               ³       ÀÄÄÄgetcapacitor
+³   ³   ³               ³           ÃÄÄÄannotation
+³   ³   ³               ³           ÃÄÄÄcordova
+³   ³   ³               ³           ÃÄÄÄplugin
+³   ³   ³               ³           ³   ÀÄÄÄutil
+³   ³   ³               ³           ÀÄÄÄutil
+³   ³   ³               ÀÄÄÄres
+³   ³   ³                   ÃÄÄÄlayout
+³   ³   ³                   ÀÄÄÄvalues
+³   ³   ÃÄÄÄapp
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³   ³   ³       ÀÄÄÄlogs
+³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ³       ÀÄÄÄmain
+³   ³   ³   ³           ÀÄÄÄjava
+³   ³   ³   ³               ÀÄÄÄcom
+³   ³   ³   ³                   ÀÄÄÄcapacitorjs
+³   ³   ³   ³                       ÀÄÄÄplugins
+³   ³   ³   ³                           ÀÄÄÄapp
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄesm
+³   ³   ³   ÀÄÄÄios
+³   ³   ³       ÃÄÄÄSources
+³   ³   ³       ³   ÀÄÄÄAppPlugin
+³   ³   ³       ÀÄÄÄTests
+³   ³   ³           ÀÄÄÄAppPluginTests
+³   ³   ÃÄÄÄbrowser
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³   ³   ³       ÀÄÄÄlogs
+³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ³       ÀÄÄÄmain
+³   ³   ³   ³           ÀÄÄÄjava
+³   ³   ³   ³               ÀÄÄÄcom
+³   ³   ³   ³                   ÀÄÄÄcapacitorjs
+³   ³   ³   ³                       ÀÄÄÄplugins
+³   ³   ³   ³                           ÀÄÄÄbrowser
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄesm
+³   ³   ³   ÀÄÄÄios
+³   ³   ³       ÃÄÄÄSources
+³   ³   ³       ³   ÀÄÄÄBrowserPlugin
+³   ³   ³       ÀÄÄÄTests
+³   ³   ³           ÀÄÄÄBrowserPluginTests
+³   ³   ÃÄÄÄcli
+³   ³   ³   ÃÄÄÄassets
+³   ³   ³   ÃÄÄÄbin
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄios
+³   ³   ³   ³   ÃÄÄÄtasks
+³   ³   ³   ³   ÃÄÄÄutil
+³   ³   ³   ³   ÀÄÄÄweb
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÃÄÄÄ.bin
+³   ³   ³       ÀÄÄÄsemver
+³   ³   ³           ÃÄÄÄbin
+³   ³   ³           ÃÄÄÄclasses
+³   ³   ³           ÃÄÄÄfunctions
+³   ³   ³           ÃÄÄÄinternal
+³   ³   ³           ÀÄÄÄranges
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ³       ÀÄÄÄlegacy
+³   ³   ÃÄÄÄfilesystem
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³   ³   ³       ÀÄÄÄlogs
+³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ³       ÀÄÄÄmain
+³   ³   ³   ³           ÀÄÄÄjava
+³   ³   ³   ³               ÀÄÄÄcom
+³   ³   ³   ³                   ÀÄÄÄcapacitorjs
+³   ³   ³   ³                       ÀÄÄÄplugins
+³   ³   ³   ³                           ÀÄÄÄfilesystem
+³   ³   ³   ³                               ÀÄÄÄexceptions
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄesm
+³   ³   ³   ÀÄÄÄios
+³   ³   ³       ÃÄÄÄSources
+³   ³   ³       ³   ÀÄÄÄFilesystemPlugin
+³   ³   ³       ÀÄÄÄTests
+³   ³   ³           ÀÄÄÄFilesystemPluginTests
+³   ³   ÃÄÄÄios
+³   ³   ³   ÃÄÄÄCapacitor
+³   ³   ³   ³   ÀÄÄÄCapacitor
+³   ³   ³   ³       ÃÄÄÄassets
+³   ³   ³   ³       ÃÄÄÄCodable
+³   ³   ³   ³       ÀÄÄÄPlugins
+³   ³   ³   ÃÄÄÄCapacitorCordova
+³   ³   ³   ³   ÀÄÄÄCapacitorCordova
+³   ³   ³   ³       ÀÄÄÄClasses
+³   ³   ³   ³           ÀÄÄÄPublic
+³   ³   ³   ÀÄÄÄscripts
+³   ³   ÃÄÄÄpreferences
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³   ³   ³       ÀÄÄÄlogs
+³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ³       ÀÄÄÄmain
+³   ³   ³   ³           ÀÄÄÄjava
+³   ³   ³   ³               ÀÄÄÄcom
+³   ³   ³   ³                   ÀÄÄÄcapacitorjs
+³   ³   ³   ³                       ÀÄÄÄplugins
+³   ³   ³   ³                           ÀÄÄÄpreferences
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄesm
+³   ³   ³   ÀÄÄÄios
+³   ³   ³       ÃÄÄÄSources
+³   ³   ³       ³   ÀÄÄÄPreferencesPlugin
+³   ³   ³       ÀÄÄÄTests
+³   ³   ³           ÀÄÄÄPreferencesPluginTests
+³   ³   ÀÄÄÄshare
+³   ³       ÃÄÄÄandroid
+³   ³       ³   ÃÄÄÄbuild
+³   ³       ³   ³   ÃÄÄÄgenerated
+³   ³       ³   ³   ³   ÀÄÄÄres
+³   ³       ³   ³   ³       ÃÄÄÄpngs
+³   ³       ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³       ÀÄÄÄresValues
+³   ³       ³   ³   ³           ÀÄÄÄdebug
+³   ³       ³   ³   ÃÄÄÄintermediates
+³   ³       ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³       ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³       ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³       ³   ³   ³   ³           ÀÄÄÄout
+³   ³       ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ³           ÀÄÄÄout
+³   ³       ³   ³   ³   ÃÄÄÄincremental
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³       ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³       ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³       ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³       ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³       ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ÃÄÄÄpublic_res
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³       ³   ³   ³       ÀÄÄÄdebug
+³   ³       ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ÀÄÄÄoutputs
+³   ³       ³   ³       ÀÄÄÄlogs
+³   ³       ³   ÀÄÄÄsrc
+³   ³       ³       ÀÄÄÄmain
+³   ³       ³           ÀÄÄÄjava
+³   ³       ³               ÀÄÄÄcom
+³   ³       ³                   ÀÄÄÄcapacitorjs
+³   ³       ³                       ÀÄÄÄplugins
+³   ³       ³                           ÀÄÄÄshare
+³   ³       ÃÄÄÄdist
+³   ³       ³   ÀÄÄÄesm
+³   ³       ÀÄÄÄios
+³   ³           ÃÄÄÄSources
+³   ³           ³   ÀÄÄÄSharePlugin
+³   ³           ÀÄÄÄTests
+³   ³               ÀÄÄÄSharePluginTests
+³   ÃÄÄÄ@capacitor-community
+³   ³   ÃÄÄÄfile-opener
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ³           ÀÄÄÄxml
+³   ³   ³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³   ³   ³       ÀÄÄÄlogs
+³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ³       ÀÄÄÄmain
+³   ³   ³   ³           ÃÄÄÄjava
+³   ³   ³   ³           ³   ÀÄÄÄcom
+³   ³   ³   ³           ³       ÀÄÄÄryltsov
+³   ³   ³   ³           ³           ÀÄÄÄalex
+³   ³   ³   ³           ³               ÀÄÄÄplugins
+³   ³   ³   ³           ³                   ÀÄÄÄfile
+³   ³   ³   ³           ³                       ÀÄÄÄopener
+³   ³   ³   ³           ÀÄÄÄres
+³   ³   ³   ³               ÀÄÄÄxml
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄesm
+³   ³   ³   ÀÄÄÄios
+³   ³   ³       ÀÄÄÄPlugin
+³   ³   ÀÄÄÄsqlite
+³   ³       ÃÄÄÄandroid
+³   ³       ³   ÃÄÄÄbuild
+³   ³       ³   ³   ÃÄÄÄgenerated
+³   ³       ³   ³   ³   ÀÄÄÄres
+³   ³       ³   ³   ³       ÃÄÄÄpngs
+³   ³       ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³       ÀÄÄÄresValues
+³   ³       ³   ³   ³           ÀÄÄÄdebug
+³   ³       ³   ³   ÃÄÄÄintermediates
+³   ³       ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³       ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³       ³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³       ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³       ³   ³   ³   ³           ÀÄÄÄout
+³   ³       ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ³           ÀÄÄÄout
+³   ³       ³   ³   ³   ÃÄÄÄincremental
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³       ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³       ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³       ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³       ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³       ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³       ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ÃÄÄÄpublic_res
+³   ³       ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³       ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³       ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³       ³   ³   ³       ÀÄÄÄdebug
+³   ³       ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³       ³   ³   ÀÄÄÄoutputs
+³   ³       ³   ³       ÀÄÄÄlogs
+³   ³       ³   ÀÄÄÄsrc
+³   ³       ³       ÀÄÄÄmain
+³   ³       ³           ÃÄÄÄjava
+³   ³       ³           ³   ÀÄÄÄcom
+³   ³       ³           ³       ÀÄÄÄgetcapacitor
+³   ³       ³           ³           ÀÄÄÄcommunity
+³   ³       ³           ³               ÀÄÄÄdatabase
+³   ³       ³           ³                   ÀÄÄÄsqlite
+³   ³       ³           ³                       ÀÄÄÄSQLite
+³   ³       ³           ³                           ÀÄÄÄImportExportJson
+³   ³       ³           ÀÄÄÄres
+³   ³       ÃÄÄÄdist
+³   ³       ³   ÀÄÄÄesm
+³   ³       ÃÄÄÄelectron
+³   ³       ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄios
+³   ³       ³   ÀÄÄÄPlugin
+³   ³       ³       ÃÄÄÄExtensions
+³   ³       ³       ÃÄÄÄImportExportJson
+³   ³       ³       ÃÄÄÄModels
+³   ³       ³       ÀÄÄÄUtils
+³   ³       ÀÄÄÄsrc
+³   ÃÄÄÄ@emailjs
+³   ³   ÀÄÄÄbrowser
+³   ³       ÃÄÄÄcjs
+³   ³       ³   ÃÄÄÄapi
+³   ³       ³   ÃÄÄÄerrors
+³   ³       ³   ³   ÃÄÄÄblockedEmailError
+³   ³       ³   ³   ÃÄÄÄheadlessError
+³   ³       ³   ³   ÀÄÄÄlimitRateError
+³   ³       ³   ÃÄÄÄmethods
+³   ³       ³   ³   ÃÄÄÄinit
+³   ³       ³   ³   ÃÄÄÄsend
+³   ³       ³   ³   ÀÄÄÄsendForm
+³   ³       ³   ÃÄÄÄmodels
+³   ³       ³   ÃÄÄÄstore
+³   ³       ³   ÃÄÄÄtypes
+³   ³       ³   ÀÄÄÄutils
+³   ³       ³       ÃÄÄÄbuildOptions
+³   ³       ³       ÃÄÄÄcreateWebStorage
+³   ³       ³       ÃÄÄÄisBlockedValueInParams
+³   ³       ³       ÃÄÄÄisHeadless
+³   ³       ³       ÃÄÄÄisLimitRateHit
+³   ³       ³       ÃÄÄÄvalidateBlockListParams
+³   ³       ³       ÃÄÄÄvalidateForm
+³   ³       ³       ÃÄÄÄvalidateLimitRateParams
+³   ³       ³       ÃÄÄÄvalidateParams
+³   ³       ³       ÀÄÄÄvalidateTemplateParams
+³   ³       ÃÄÄÄdist
+³   ³       ÀÄÄÄes
+³   ³           ÃÄÄÄapi
+³   ³           ÃÄÄÄerrors
+³   ³           ³   ÃÄÄÄblockedEmailError
+³   ³           ³   ÃÄÄÄheadlessError
+³   ³           ³   ÀÄÄÄlimitRateError
+³   ³           ÃÄÄÄmethods
+³   ³           ³   ÃÄÄÄinit
+³   ³           ³   ÃÄÄÄsend
+³   ³           ³   ÀÄÄÄsendForm
+³   ³           ÃÄÄÄmodels
+³   ³           ÃÄÄÄstore
+³   ³           ÃÄÄÄtypes
+³   ³           ÀÄÄÄutils
+³   ³               ÃÄÄÄbuildOptions
+³   ³               ÃÄÄÄcreateWebStorage
+³   ³               ÃÄÄÄisBlockedValueInParams
+³   ³               ÃÄÄÄisHeadless
+³   ³               ÃÄÄÄisLimitRateHit
+³   ³               ÃÄÄÄvalidateBlockListParams
+³   ³               ÃÄÄÄvalidateForm
+³   ³               ÃÄÄÄvalidateLimitRateParams
+³   ³               ÃÄÄÄvalidateParams
+³   ³               ÀÄÄÄvalidateTemplateParams
+³   ÃÄÄÄ@esbuild
+³   ³   ÀÄÄÄwin32-x64
+³   ÃÄÄÄ@eslint
+³   ³   ÃÄÄÄconfig-array
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄcjs
+³   ³   ³       ³   ÀÄÄÄstd__path
+³   ³   ³       ÀÄÄÄesm
+³   ³   ³           ÀÄÄÄstd__path
+³   ³   ÃÄÄÄconfig-helpers
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄcjs
+³   ³   ³       ÀÄÄÄesm
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄcjs
+³   ³   ³       ÀÄÄÄesm
+³   ³   ÃÄÄÄeslintrc
+³   ³   ³   ÃÄÄÄconf
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÃÄÄÄconfig-array
+³   ³   ³   ³   ÃÄÄÄshared
+³   ³   ³   ³   ÀÄÄÄtypes
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÀÄÄÄglobals
+³   ³   ÃÄÄÄjs
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ³   ÀÄÄÄconfigs
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÃÄÄÄobject-schema
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄcjs
+³   ³   ³       ÀÄÄÄesm
+³   ³   ÀÄÄÄplugin-kit
+³   ³       ÀÄÄÄdist
+³   ³           ÃÄÄÄcjs
+³   ³           ÀÄÄÄesm
+³   ÃÄÄÄ@eslint-community
+³   ³   ÃÄÄÄeslint-utils
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÀÄÄÄeslint-visitor-keys
+³   ³   ³           ÃÄÄÄdist
+³   ³   ³           ÀÄÄÄlib
+³   ³   ÀÄÄÄregexpp
+³   ÃÄÄÄ@humanfs
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ÀÄÄÄnode
+³   ³       ÃÄÄÄdist
+³   ³       ÀÄÄÄsrc
+³   ÃÄÄÄ@humanwhocodes
+³   ³   ÃÄÄÄmodule-importer
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ÀÄÄÄretry
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄ@ionic
+³   ³   ÃÄÄÄcli-framework-output
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄutils-array
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄutils-fs
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ÃÄÄÄutils-object
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄutils-process
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÀÄÄÄ@ionic
+³   ³   ³           ÀÄÄÄutils-terminal
+³   ³   ³               ÀÄÄÄdist
+³   ³   ÃÄÄÄutils-stream
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄutils-subprocess
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÀÄÄÄ@ionic
+³   ³   ³           ÃÄÄÄutils-fs
+³   ³   ³           ³   ÀÄÄÄdist
+³   ³   ³           ÀÄÄÄutils-terminal
+³   ³   ³               ÀÄÄÄdist
+³   ³   ÀÄÄÄutils-terminal
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄ@ionic-native
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÀÄÄÄdecorators
+³   ³   ÀÄÄÄfile-opener
+³   ³       ÀÄÄÄngx
+³   ÃÄÄÄ@isaacs
+³   ÃÄÄÄ@jridgewell
+³   ³   ÃÄÄÄgen-mapping
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄtypes
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÃÄÄÄremapping
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÃÄÄÄresolve-uri
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÀÄÄÄtypes
+³   ³   ÃÄÄÄsourcemap-codec
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÀÄÄÄtrace-mapping
+³   ³       ÃÄÄÄdist
+³   ³       ÃÄÄÄsrc
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄ@rolldown
+³   ³   ÀÄÄÄpluginutils
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄ@rollup
+³   ³   ÀÄÄÄrollup-win32-x64-msvc
+³   ÃÄÄÄ@stencil
+³   ³   ÀÄÄÄcore
+³   ³       ÃÄÄÄbin
+³   ³       ÃÄÄÄcli
+³   ³       ÃÄÄÄcompiler
+³   ³       ³   ÀÄÄÄsys
+³   ³       ÃÄÄÄdev-server
+³   ³       ³   ÃÄÄÄclient
+³   ³       ³   ³   ÀÄÄÄtest
+³   ³       ³   ÃÄÄÄstatic
+³   ³       ³   ÀÄÄÄtemplates
+³   ³       ÃÄÄÄinternal
+³   ³       ³   ÃÄÄÄapp-data
+³   ³       ³   ÃÄÄÄapp-globals
+³   ³       ³   ÃÄÄÄclient
+³   ³       ³   ³   ÀÄÄÄpolyfills
+³   ³       ³   ÃÄÄÄhydrate
+³   ³       ³   ÃÄÄÄstencil-core
+³   ³       ³   ÃÄÄÄtesting
+³   ³       ³   ÀÄÄÄutils
+³   ³       ÃÄÄÄmock-doc
+³   ³       ÃÄÄÄnode_modules
+³   ³       ³   ÀÄÄÄ@rollup
+³   ³       ³       ÀÄÄÄrollup-win32-x64-msvc
+³   ³       ÃÄÄÄscreenshot
+³   ³       ³   ÀÄÄÄcompare
+³   ³       ³       ÃÄÄÄassets
+³   ³       ³       ÀÄÄÄbuild
+³   ³       ÃÄÄÄsys
+³   ³       ³   ÀÄÄÄnode
+³   ³       ÀÄÄÄtesting
+³   ³           ÃÄÄÄjest
+³   ³           ³   ÃÄÄÄjest-27-and-under
+³   ³           ³   ³   ÃÄÄÄmatchers
+³   ³           ³   ³   ÀÄÄÄtest
+³   ³           ³   ÃÄÄÄjest-28
+³   ³           ³   ³   ÃÄÄÄmatchers
+³   ³           ³   ³   ÀÄÄÄtest
+³   ³           ³   ÃÄÄÄjest-29
+³   ³           ³   ³   ÃÄÄÄmatchers
+³   ³           ³   ³   ÀÄÄÄtest
+³   ³           ³   ÀÄÄÄtest
+³   ³           ÃÄÄÄpuppeteer
+³   ³           ³   ÀÄÄÄtest
+³   ³           ÀÄÄÄtest
+³   ÃÄÄÄ@types
+³   ³   ÃÄÄÄbabel__core
+³   ³   ÃÄÄÄbabel__generator
+³   ³   ÃÄÄÄbabel__template
+³   ³   ÃÄÄÄbabel__traverse
+³   ³   ÃÄÄÄcordova
+³   ³   ÃÄÄÄestree
+³   ³   ÃÄÄÄfs-extra
+³   ³   ÃÄÄÄjson-schema
+³   ³   ÃÄÄÄnode
+³   ³   ³   ÃÄÄÄassert
+³   ³   ³   ÃÄÄÄcompatibility
+³   ³   ³   ÃÄÄÄdns
+³   ³   ³   ÃÄÄÄfs
+³   ³   ³   ÃÄÄÄreadline
+³   ³   ³   ÃÄÄÄstream
+³   ³   ³   ÃÄÄÄtimers
+³   ³   ³   ÃÄÄÄts5.6
+³   ³   ³   ³   ÀÄÄÄcompatibility
+³   ³   ³   ÃÄÄÄts5.7
+³   ³   ³   ³   ÀÄÄÄcompatibility
+³   ³   ³   ÀÄÄÄweb-globals
+³   ³   ÃÄÄÄpako
+³   ³   ÃÄÄÄraf
+³   ³   ÃÄÄÄreact
+³   ³   ³   ÀÄÄÄts5.0
+³   ³   ³       ÀÄÄÄv18
+³   ³   ³           ÀÄÄÄts5.0
+³   ³   ÃÄÄÄreact-dom
+³   ³   ³   ÀÄÄÄtest-utils
+³   ³   ÃÄÄÄslice-ansi
+³   ³   ÀÄÄÄtrusted-types
+³   ³       ÀÄÄÄlib
+³   ÃÄÄÄ@vitejs
+³   ³   ÀÄÄÄplugin-react
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄ@wojtekmaj
+³   ³   ÀÄÄÄdate-utils
+³   ³       ÃÄÄÄdist
+³   ³       ÀÄÄÄsrc
+³   ÃÄÄÄ@xmldom
+³   ³   ÀÄÄÄxmldom
+³   ³       ÀÄÄÄlib
+³   ÃÄÄÄacorn
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄacorn-jsx
+³   ÃÄÄÄajv
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄcompile
+³   ³   ³   ÃÄÄÄdot
+³   ³   ³   ÃÄÄÄdotjs
+³   ³   ³   ÀÄÄÄrefs
+³   ³   ÀÄÄÄscripts
+³   ÃÄÄÄansi-regex
+³   ÃÄÄÄansi-styles
+³   ÃÄÄÄargparse
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄastral-regex
+³   ÃÄÄÄat-least-node
+³   ÃÄÄÄbalanced-match
+³   ³   ÀÄÄÄ.github
+³   ÃÄÄÄbase64-arraybuffer
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄbase64-js
+³   ÃÄÄÄbig-integer
+³   ÃÄÄÄbluebird
+³   ³   ÀÄÄÄjs
+³   ³       ÃÄÄÄbrowser
+³   ³       ÀÄÄÄrelease
+³   ÃÄÄÄbplist-parser
+³   ÃÄÄÄbrace-expansion
+³   ÃÄÄÄbrowser-fs-access
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄbrowserslist
+³   ÃÄÄÄbuffer-crc32
+³   ÃÄÄÄcallsites
+³   ÃÄÄÄcaniuse-lite
+³   ³   ÃÄÄÄdata
+³   ³   ³   ÃÄÄÄfeatures
+³   ³   ³   ÀÄÄÄregions
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄunpacker
+³   ÃÄÄÄcanvg
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄDocument
+³   ³       ÃÄÄÄpresets
+³   ³       ÃÄÄÄTransform
+³   ³       ÀÄÄÄutil
+³   ÃÄÄÄcapacitor-secure-storage-plugin
+³   ³   ÃÄÄÄandroid
+³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ÃÄÄÄgenerated
+³   ³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³   ³       ÃÄÄÄpngs
+³   ³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÀÄÄÄresValues
+³   ³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ³   ÃÄÄÄintermediates
+³   ³   ³   ³   ³   ÃÄÄÄaapt_friendly_merged_manifests
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ³           ÀÄÄÄaapt
+³   ³   ³   ³   ³   ÃÄÄÄaar_metadata
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄwriteDebugAarMetadata
+³   ³   ³   ³   ³   ÃÄÄÄcompiled_local_resources
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄcompileDebugLibraryResources
+³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ÃÄÄÄcompile_r_class_jar
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÃÄÄÄcompile_symbol_list
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ³           ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³           ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ÃÄÄÄpublic_res
+³   ³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³   ÀÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³           ÀÄÄÄgenerateDebugRFile
+³   ³   ³   ³   ÀÄÄÄoutputs
+³   ³   ³   ³       ÀÄÄÄlogs
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ³       ÀÄÄÄmain
+³   ³   ³           ÃÄÄÄjava
+³   ³   ³           ³   ÀÄÄÄcom
+³   ³   ³           ³       ÀÄÄÄwhitestein
+³   ³   ³           ³           ÀÄÄÄsecurestorage
+³   ³   ³           ÀÄÄÄres
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄesm
+³   ³   ÀÄÄÄios
+³   ³       ÀÄÄÄPlugin
+³   ÃÄÄÄchalk
+³   ³   ÀÄÄÄsource
+³   ÃÄÄÄchownr
+³   ÃÄÄÄclsx
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄcolor-convert
+³   ÃÄÄÄcolor-name
+³   ÃÄÄÄcommander
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄtypings
+³   ÃÄÄÄconcat-map
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄconvert-source-map
+³   ÃÄÄÄcookie
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄcordova-plugin-android-permissions
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄandroid
+³   ³   ³       ÀÄÄÄcom
+³   ³   ³           ÀÄÄÄandroid
+³   ³   ³               ÀÄÄÄplugins
+³   ³   ÀÄÄÄwww
+³   ÃÄÄÄcordova-plugin-file
+³   ³   ÃÄÄÄdoc
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ÃÄÄÄbrowser
+³   ³   ³   ÃÄÄÄios
+³   ³   ³   ³   ÀÄÄÄCDVFile.bundle
+³   ³   ³   ÃÄÄÄosx
+³   ³   ³   ÀÄÄÄwindows
+³   ³   ÃÄÄÄtypes
+³   ³   ÀÄÄÄwww
+³   ³       ÃÄÄÄandroid
+³   ³       ÃÄÄÄbrowser
+³   ³       ÃÄÄÄios
+³   ³       ÀÄÄÄosx
+³   ÃÄÄÄcordova-plugin-file-opener2
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄISSUE_TEMPLATE
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ³   ÃÄÄÄio
+³   ³   ³   ³   ³   ÀÄÄÄgithub
+³   ³   ³   ³   ³       ÀÄÄÄpwlin
+³   ³   ³   ³   ³           ÀÄÄÄcordova
+³   ³   ³   ³   ³               ÀÄÄÄplugins
+³   ³   ³   ³   ³                   ÀÄÄÄfileopener2
+³   ³   ³   ³   ÀÄÄÄres
+³   ³   ³   ³       ÀÄÄÄxml
+³   ³   ³   ÃÄÄÄbrowser
+³   ³   ³   ÃÄÄÄelectron
+³   ³   ³   ÃÄÄÄios
+³   ³   ³   ÀÄÄÄwindows
+³   ³   ÀÄÄÄwww
+³   ³       ÀÄÄÄbrowser
+³   ÃÄÄÄcordova-plugin-printer
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄandroid
+³   ³   ³   ÃÄÄÄbrowser
+³   ³   ³   ÃÄÄÄios
+³   ³   ³   ÃÄÄÄosx
+³   ³   ³   ÀÄÄÄwindows
+³   ³   ÀÄÄÄwww
+³   ÃÄÄÄcore-js
+³   ³   ÃÄÄÄactual
+³   ³   ³   ÃÄÄÄarray
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄarray-buffer
+³   ³   ³   ÃÄÄÄasync-disposable-stack
+³   ³   ³   ÃÄÄÄasync-iterator
+³   ³   ³   ÃÄÄÄdata-view
+³   ³   ³   ÃÄÄÄdate
+³   ³   ³   ÃÄÄÄdisposable-stack
+³   ³   ³   ÃÄÄÄdom-collections
+³   ³   ³   ÃÄÄÄdom-exception
+³   ³   ³   ÃÄÄÄerror
+³   ³   ³   ÃÄÄÄfunction
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄinstance
+³   ³   ³   ÃÄÄÄiterator
+³   ³   ³   ÃÄÄÄjson
+³   ³   ³   ÃÄÄÄmap
+³   ³   ³   ÃÄÄÄmath
+³   ³   ³   ÃÄÄÄnumber
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄobject
+³   ³   ³   ÃÄÄÄpromise
+³   ³   ³   ÃÄÄÄreflect
+³   ³   ³   ÃÄÄÄregexp
+³   ³   ³   ÃÄÄÄset
+³   ³   ³   ÃÄÄÄstring
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtyped-array
+³   ³   ³   ÃÄÄÄurl
+³   ³   ³   ÃÄÄÄurl-search-params
+³   ³   ³   ÃÄÄÄweak-map
+³   ³   ³   ÀÄÄÄweak-set
+³   ³   ÃÄÄÄes
+³   ³   ³   ÃÄÄÄarray
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄarray-buffer
+³   ³   ³   ÃÄÄÄasync-disposable-stack
+³   ³   ³   ÃÄÄÄasync-iterator
+³   ³   ³   ÃÄÄÄdata-view
+³   ³   ³   ÃÄÄÄdate
+³   ³   ³   ÃÄÄÄdisposable-stack
+³   ³   ³   ÃÄÄÄerror
+³   ³   ³   ÃÄÄÄfunction
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄinstance
+³   ³   ³   ÃÄÄÄiterator
+³   ³   ³   ÃÄÄÄjson
+³   ³   ³   ÃÄÄÄmap
+³   ³   ³   ÃÄÄÄmath
+³   ³   ³   ÃÄÄÄnumber
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄobject
+³   ³   ³   ÃÄÄÄpromise
+³   ³   ³   ÃÄÄÄreflect
+³   ³   ³   ÃÄÄÄregexp
+³   ³   ³   ÃÄÄÄset
+³   ³   ³   ÃÄÄÄstring
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtyped-array
+³   ³   ³   ÃÄÄÄweak-map
+³   ³   ³   ÀÄÄÄweak-set
+³   ³   ÃÄÄÄfeatures
+³   ³   ³   ÃÄÄÄarray
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄarray-buffer
+³   ³   ³   ÃÄÄÄasync-disposable-stack
+³   ³   ³   ÃÄÄÄasync-iterator
+³   ³   ³   ÃÄÄÄbigint
+³   ³   ³   ÃÄÄÄdata-view
+³   ³   ³   ÃÄÄÄdate
+³   ³   ³   ÃÄÄÄdisposable-stack
+³   ³   ³   ÃÄÄÄdom-collections
+³   ³   ³   ÃÄÄÄdom-exception
+³   ³   ³   ÃÄÄÄerror
+³   ³   ³   ÃÄÄÄfunction
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄinstance
+³   ³   ³   ÃÄÄÄiterator
+³   ³   ³   ÃÄÄÄjson
+³   ³   ³   ÃÄÄÄmap
+³   ³   ³   ÃÄÄÄmath
+³   ³   ³   ÃÄÄÄnumber
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄobject
+³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ÃÄÄÄpromise
+³   ³   ³   ÃÄÄÄreflect
+³   ³   ³   ÃÄÄÄregexp
+³   ³   ³   ÃÄÄÄset
+³   ³   ³   ÃÄÄÄstring
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtyped-array
+³   ³   ³   ÃÄÄÄurl
+³   ³   ³   ÃÄÄÄurl-search-params
+³   ³   ³   ÃÄÄÄweak-map
+³   ³   ³   ÀÄÄÄweak-set
+³   ³   ÃÄÄÄfull
+³   ³   ³   ÃÄÄÄarray
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄarray-buffer
+³   ³   ³   ÃÄÄÄasync-disposable-stack
+³   ³   ³   ÃÄÄÄasync-iterator
+³   ³   ³   ÃÄÄÄbigint
+³   ³   ³   ÃÄÄÄdata-view
+³   ³   ³   ÃÄÄÄdate
+³   ³   ³   ÃÄÄÄdisposable-stack
+³   ³   ³   ÃÄÄÄdom-collections
+³   ³   ³   ÃÄÄÄdom-exception
+³   ³   ³   ÃÄÄÄerror
+³   ³   ³   ÃÄÄÄfunction
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄinstance
+³   ³   ³   ÃÄÄÄiterator
+³   ³   ³   ÃÄÄÄjson
+³   ³   ³   ÃÄÄÄmap
+³   ³   ³   ÃÄÄÄmath
+³   ³   ³   ÃÄÄÄnumber
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄobject
+³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ÃÄÄÄpromise
+³   ³   ³   ÃÄÄÄreflect
+³   ³   ³   ÃÄÄÄregexp
+³   ³   ³   ÃÄÄÄset
+³   ³   ³   ÃÄÄÄstring
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtyped-array
+³   ³   ³   ÃÄÄÄurl
+³   ³   ³   ÃÄÄÄurl-search-params
+³   ³   ³   ÃÄÄÄweak-map
+³   ³   ³   ÀÄÄÄweak-set
+³   ³   ÃÄÄÄinternals
+³   ³   ÃÄÄÄmodules
+³   ³   ÃÄÄÄproposals
+³   ³   ÃÄÄÄstable
+³   ³   ³   ÃÄÄÄarray
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄarray-buffer
+³   ³   ³   ÃÄÄÄasync-disposable-stack
+³   ³   ³   ÃÄÄÄasync-iterator
+³   ³   ³   ÃÄÄÄdata-view
+³   ³   ³   ÃÄÄÄdate
+³   ³   ³   ÃÄÄÄdisposable-stack
+³   ³   ³   ÃÄÄÄdom-collections
+³   ³   ³   ÃÄÄÄdom-exception
+³   ³   ³   ÃÄÄÄerror
+³   ³   ³   ÃÄÄÄfunction
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄinstance
+³   ³   ³   ÃÄÄÄiterator
+³   ³   ³   ÃÄÄÄjson
+³   ³   ³   ÃÄÄÄmap
+³   ³   ³   ÃÄÄÄmath
+³   ³   ³   ÃÄÄÄnumber
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄobject
+³   ³   ³   ÃÄÄÄpromise
+³   ³   ³   ÃÄÄÄreflect
+³   ³   ³   ÃÄÄÄregexp
+³   ³   ³   ÃÄÄÄset
+³   ³   ³   ÃÄÄÄstring
+³   ³   ³   ³   ÀÄÄÄvirtual
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtyped-array
+³   ³   ³   ÃÄÄÄurl
+³   ³   ³   ÃÄÄÄurl-search-params
+³   ³   ³   ÃÄÄÄweak-map
+³   ³   ³   ÀÄÄÄweak-set
+³   ³   ÃÄÄÄstage
+³   ³   ÀÄÄÄweb
+³   ÃÄÄÄcore-util-is
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄcross-spawn
+³   ³   ÀÄÄÄlib
+³   ³       ÀÄÄÄutil
+³   ÃÄÄÄcss-line-break
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄcsstype
+³   ÃÄÄÄdebug
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄdeep-is
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄdefine-lazy-prop
+³   ÃÄÄÄdetect-element-overflow
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄdingbat-to-unicode
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄdocx-preview
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄdocxtemplater
+³   ³   ÃÄÄÄbuild
+³   ³   ÀÄÄÄjs
+³   ³       ÃÄÄÄbrowser-versions
+³   ³       ÃÄÄÄmodules
+³   ³       ÀÄÄÄtests
+³   ³           ÃÄÄÄdata
+³   ³           ÃÄÄÄe2e
+³   ³           ÀÄÄÄunit
+³   ÃÄÄÄdompurify
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄduck
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄelectron-to-chromium
+³   ÃÄÄÄelementtree
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄparsers
+³   ³   ÀÄÄÄtests
+³   ³       ÀÄÄÄdata
+³   ÃÄÄÄemoji-regex
+³   ³   ÀÄÄÄes2015
+³   ÃÄÄÄenv-paths
+³   ÃÄÄÄesbuild
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄescalade
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsync
+³   ÃÄÄÄescape-string-regexp
+³   ÃÄÄÄeslint
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄconf
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄcli-engine
+³   ³   ³   ³   ÀÄÄÄformatters
+³   ³   ³   ÃÄÄÄconfig
+³   ³   ³   ÃÄÄÄeslint
+³   ³   ³   ÃÄÄÄlanguages
+³   ³   ³   ³   ÀÄÄÄjs
+³   ³   ³   ³       ÀÄÄÄsource-code
+³   ³   ³   ³           ÀÄÄÄtoken-store
+³   ³   ³   ÃÄÄÄlinter
+³   ³   ³   ³   ÀÄÄÄcode-path-analysis
+³   ³   ³   ÃÄÄÄrule-tester
+³   ³   ³   ÃÄÄÄrules
+³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³       ÀÄÄÄunicode
+³   ³   ³   ÃÄÄÄservices
+³   ³   ³   ÃÄÄÄshared
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÀÄÄÄmessages
+³   ÃÄÄÄeslint-plugin-react-hooks
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄeslint-plugin-react-refresh
+³   ÃÄÄÄeslint-scope
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄeslint-visitor-keys
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄespree
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄesquery
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄesrecurse
+³   ÃÄÄÄestraverse
+³   ÃÄÄÄesutils
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄfast-deep-equal
+³   ³   ÀÄÄÄes6
+³   ÃÄÄÄfast-json-stable-stringify
+³   ³   ÃÄÄÄ.github
+³   ³   ÃÄÄÄbenchmark
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄfast-levenshtein
+³   ÃÄÄÄfast-png
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄhelpers
+³   ³   ÃÄÄÄlib-esm
+³   ³   ³   ÀÄÄÄhelpers
+³   ³   ÀÄÄÄsrc
+³   ³       ÀÄÄÄhelpers
+³   ÃÄÄÄfd-slicer
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄfdir
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄfflate
+³   ³   ÃÄÄÄesm
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄumd
+³   ÃÄÄÄfile-entry-cache
+³   ÃÄÄÄfind-up
+³   ÃÄÄÄflat-cache
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄflatted
+³   ³   ÃÄÄÄcjs
+³   ³   ÃÄÄÄesm
+³   ³   ÃÄÄÄphp
+³   ³   ÃÄÄÄpython
+³   ³   ÀÄÄÄtypes
+³   ÃÄÄÄframer-motion
+³   ³   ÃÄÄÄclient
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcjs
+³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ÃÄÄÄanimation
+³   ³   ³   ³   ³   ÃÄÄÄanimate
+³   ³   ³   ³   ³   ÃÄÄÄanimators
+³   ³   ³   ³   ³   ³   ÀÄÄÄwaapi
+³   ³   ³   ³   ³   ³       ÀÄÄÄutils
+³   ³   ³   ³   ³   ÃÄÄÄhooks
+³   ³   ³   ³   ³   ÃÄÄÄinterfaces
+³   ³   ³   ³   ³   ÃÄÄÄoptimized-appear
+³   ³   ³   ³   ³   ÃÄÄÄsequence
+³   ³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ÃÄÄÄcomponents
+³   ³   ³   ³   ³   ÃÄÄÄAnimatePresence
+³   ³   ³   ³   ³   ÃÄÄÄLayoutGroup
+³   ³   ³   ³   ³   ÃÄÄÄLazyMotion
+³   ³   ³   ³   ³   ÃÄÄÄMotionConfig
+³   ³   ³   ³   ³   ÀÄÄÄReorder
+³   ³   ³   ³   ³       ÀÄÄÄutils
+³   ³   ³   ³   ÃÄÄÄcontext
+³   ³   ³   ³   ³   ÀÄÄÄMotionContext
+³   ³   ³   ³   ÃÄÄÄevents
+³   ³   ³   ³   ÃÄÄÄgestures
+³   ³   ³   ³   ³   ÃÄÄÄdrag
+³   ³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³   ÀÄÄÄpan
+³   ³   ³   ³   ÃÄÄÄmotion
+³   ³   ³   ³   ³   ÃÄÄÄfeatures
+³   ³   ³   ³   ³   ³   ÃÄÄÄanimation
+³   ³   ³   ³   ³   ³   ÃÄÄÄlayout
+³   ³   ³   ³   ³   ³   ÀÄÄÄviewport
+³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ÃÄÄÄprojection
+³   ³   ³   ³   ³   ÃÄÄÄanimation
+³   ³   ³   ³   ³   ÃÄÄÄgeometry
+³   ³   ³   ³   ³   ÃÄÄÄnode
+³   ³   ³   ³   ³   ÃÄÄÄshared
+³   ³   ³   ³   ³   ÃÄÄÄstyles
+³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ÃÄÄÄrender
+³   ³   ³   ³   ³   ÃÄÄÄcomponents
+³   ³   ³   ³   ³   ³   ÃÄÄÄm
+³   ³   ³   ³   ³   ³   ÀÄÄÄmotion
+³   ³   ³   ³   ³   ÃÄÄÄdom
+³   ³   ³   ³   ³   ³   ÃÄÄÄscroll
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄoffsets
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³   ³   ÃÄÄÄutils
+³   ³   ³   ³   ³   ³   ÀÄÄÄviewport
+³   ³   ³   ³   ³   ÃÄÄÄhtml
+³   ³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³   ÃÄÄÄobject
+³   ³   ³   ³   ³   ÃÄÄÄsvg
+³   ³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ÃÄÄÄutils
+³   ³   ³   ³   ³   ÀÄÄÄreduced-motion
+³   ³   ³   ³   ÀÄÄÄvalue
+³   ³   ³   ³       ÃÄÄÄscroll
+³   ³   ³   ³       ÃÄÄÄuse-will-change
+³   ³   ³   ³       ÀÄÄÄutils
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÃÄÄÄdom
+³   ³   ³   ÀÄÄÄmini
+³   ³   ÃÄÄÄm
+³   ³   ÀÄÄÄmini
+³   ÃÄÄÄfs-extra
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄcopy
+³   ³       ÃÄÄÄcopy-sync
+³   ³       ÃÄÄÄempty
+³   ³       ÃÄÄÄensure
+³   ³       ÃÄÄÄfs
+³   ³       ÃÄÄÄjson
+³   ³       ÃÄÄÄmkdirs
+³   ³       ÃÄÄÄmove
+³   ³       ÃÄÄÄmove-sync
+³   ³       ÃÄÄÄoutput
+³   ³       ÃÄÄÄpath-exists
+³   ³       ÃÄÄÄremove
+³   ³       ÀÄÄÄutil
+³   ÃÄÄÄfs-minipass
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄminipass
+³   ³       ÀÄÄÄyallist
+³   ÃÄÄÄfs.realpath
+³   ÃÄÄÄgensync
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄget-user-locale
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄglob
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcjs
+³   ³   ³   ÀÄÄÄmjs
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄbrace-expansion
+³   ³       ³   ÀÄÄÄ.github
+³   ³       ÀÄÄÄminimatch
+³   ³           ÀÄÄÄdist
+³   ³               ÃÄÄÄcjs
+³   ³               ÀÄÄÄmjs
+³   ÃÄÄÄglob-parent
+³   ÃÄÄÄglobals
+³   ÃÄÄÄgraceful-fs
+³   ÃÄÄÄhas-flag
+³   ÃÄÄÄhtml2canvas
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ³   ÃÄÄÄcore
+³   ³       ³   ³   ÃÄÄÄ__mocks__
+³   ³       ³   ³   ÀÄÄÄ__tests__
+³   ³       ³   ÃÄÄÄcss
+³   ³       ³   ³   ÃÄÄÄlayout
+³   ³       ³   ³   ³   ÀÄÄÄ__mocks__
+³   ³       ³   ³   ÃÄÄÄproperty-descriptors
+³   ³       ³   ³   ³   ÀÄÄÄ__tests__
+³   ³       ³   ³   ÃÄÄÄsyntax
+³   ³       ³   ³   ³   ÀÄÄÄ__tests__
+³   ³       ³   ³   ÀÄÄÄtypes
+³   ³       ³   ³       ÃÄÄÄfunctions
+³   ³       ³   ³       ³   ÀÄÄÄ__tests__
+³   ³       ³   ³       ÀÄÄÄ__tests__
+³   ³       ³   ÃÄÄÄdom
+³   ³       ³   ³   ÃÄÄÄelements
+³   ³       ³   ³   ÃÄÄÄreplaced-elements
+³   ³       ³   ³   ÀÄÄÄ__mocks__
+³   ³       ³   ÃÄÄÄrender
+³   ³       ³   ³   ÀÄÄÄcanvas
+³   ³       ³   ÀÄÄÄ__tests__
+³   ³       ÀÄÄÄtypes
+³   ³           ÃÄÄÄcore
+³   ³           ³   ÃÄÄÄ__mocks__
+³   ³           ³   ÀÄÄÄ__tests__
+³   ³           ÃÄÄÄcss
+³   ³           ³   ÃÄÄÄlayout
+³   ³           ³   ³   ÀÄÄÄ__mocks__
+³   ³           ³   ÃÄÄÄproperty-descriptors
+³   ³           ³   ³   ÀÄÄÄ__tests__
+³   ³           ³   ÃÄÄÄsyntax
+³   ³           ³   ³   ÀÄÄÄ__tests__
+³   ³           ³   ÀÄÄÄtypes
+³   ³           ³       ÃÄÄÄfunctions
+³   ³           ³       ³   ÀÄÄÄ__tests__
+³   ³           ³       ÀÄÄÄ__tests__
+³   ³           ÃÄÄÄdom
+³   ³           ³   ÃÄÄÄelements
+³   ³           ³   ÃÄÄÄreplaced-elements
+³   ³           ³   ÀÄÄÄ__mocks__
+³   ³           ÃÄÄÄrender
+³   ³           ³   ÀÄÄÄcanvas
+³   ³           ÀÄÄÄ__tests__
+³   ÃÄÄÄhtml2pdf.js
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ³       ÃÄÄÄplugin
+³   ³       ÀÄÄÄsnapdom
+³   ÃÄÄÄignore
+³   ÃÄÄÄimmediate
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄimport-fresh
+³   ÃÄÄÄimurmurhash
+³   ÃÄÄÄinherits
+³   ÃÄÄÄini
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄiobuffer
+³   ³   ÃÄÄÄlib
+³   ³   ÃÄÄÄlib-esm
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄis-docker
+³   ÃÄÄÄis-extglob
+³   ÃÄÄÄis-fullwidth-code-point
+³   ÃÄÄÄis-glob
+³   ÃÄÄÄis-wsl
+³   ÃÄÄÄisarray
+³   ÃÄÄÄisexe
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄjeep-sqlite
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcjs
+³   ³   ³   ÃÄÄÄcollection
+³   ³   ³   ³   ÃÄÄÄcomponents
+³   ³   ³   ³   ³   ÀÄÄÄjeep-sqlite
+³   ³   ³   ³   ÃÄÄÄinterfaces
+³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ÃÄÄÄcomponents
+³   ³   ³   ÃÄÄÄesm
+³   ³   ³   ÃÄÄÄjeep-sqlite
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ³       ÃÄÄÄcomponents
+³   ³   ³       ³   ÀÄÄÄjeep-sqlite
+³   ³   ³       ÃÄÄÄinterfaces
+³   ³   ³       ÀÄÄÄutils
+³   ³   ÀÄÄÄloader
+³   ÃÄÄÄjs-tokens
+³   ÃÄÄÄjs-yaml
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄschema
+³   ³       ÀÄÄÄtype
+³   ÃÄÄÄjsesc
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄman
+³   ÃÄÄÄjson-buffer
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄjson-schema-traverse
+³   ³   ÀÄÄÄspec
+³   ³       ÀÄÄÄfixtures
+³   ÃÄÄÄjson-stable-stringify-without-jsonify
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄjson5
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄjsonfile
+³   ÃÄÄÄjspdf
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄtypes
+³   ÃÄÄÄjszip
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄworkflows
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄgenerate
+³   ³   ³   ÃÄÄÄnodejs
+³   ³   ³   ÃÄÄÄreader
+³   ³   ³   ÀÄÄÄstream
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄpako
+³   ³   ³       ÃÄÄÄdist
+³   ³   ³       ÀÄÄÄlib
+³   ³   ³           ÃÄÄÄutils
+³   ³   ³           ÀÄÄÄzlib
+³   ³   ÀÄÄÄvendor
+³   ÃÄÄÄkeyv
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄkleur
+³   ÃÄÄÄlevn
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄlie
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄlocalforage
+³   ³   ÃÄÄÄbuild
+³   ³   ³   ÀÄÄÄes5src
+³   ³   ³       ÃÄÄÄdrivers
+³   ³   ³       ÀÄÄÄutils
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄlie
+³   ³   ³       ÃÄÄÄdist
+³   ³   ³       ÀÄÄÄlib
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄdrivers
+³   ³   ³   ÀÄÄÄutils
+³   ³   ÀÄÄÄtypings
+³   ÃÄÄÄlocate-path
+³   ÃÄÄÄlodash.merge
+³   ÃÄÄÄloose-envify
+³   ÃÄÄÄlop
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄlru-cache
+³   ÃÄÄÄlucide-react
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ÃÄÄÄesm
+³   ³       ³   ÃÄÄÄicons
+³   ³       ³   ÀÄÄÄshared
+³   ³       ³       ÀÄÄÄsrc
+³   ³       ÀÄÄÄumd
+³   ÃÄÄÄmake-event-props
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ³       ÀÄÄÄ__snapshots__
+³   ÃÄÄÄmammoth
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄworkflows
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄbrowser
+³   ³   ³   ÀÄÄÄdocx
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄdocx
+³   ³   ³   ÃÄÄÄhtml
+³   ³   ³   ÃÄÄÄstyles
+³   ³   ³   ³   ÀÄÄÄparser
+³   ³   ³   ÃÄÄÄwriters
+³   ³   ³   ÀÄÄÄxml
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÃÄÄÄ@xmldom
+³   ³   ³   ³   ÀÄÄÄxmldom
+³   ³   ³   ³       ÀÄÄÄlib
+³   ³   ³   ÀÄÄÄargparse
+³   ³   ³       ÀÄÄÄlib
+³   ³   ³           ÃÄÄÄaction
+³   ³   ³           ³   ÃÄÄÄappend
+³   ³   ³           ³   ÀÄÄÄstore
+³   ³   ³           ÃÄÄÄargument
+³   ³   ³           ÀÄÄÄhelp
+³   ³   ÀÄÄÄtest
+³   ³       ÃÄÄÄdocx
+³   ³       ÃÄÄÄhtml
+³   ³       ÃÄÄÄstyles
+³   ³       ³   ÀÄÄÄparser
+³   ³       ÃÄÄÄtest-data
+³   ³       ³   ÃÄÄÄhyperlinks
+³   ³       ³   ³   ÀÄÄÄword
+³   ³       ³   ³       ÀÄÄÄ_rels
+³   ³       ³   ÀÄÄÄsimple
+³   ³       ³       ÀÄÄÄword
+³   ³       ÃÄÄÄwriters
+³   ³       ÀÄÄÄxml
+³   ÃÄÄÄmemoize
+³   ³   ÀÄÄÄdistribution
+³   ÃÄÄÄmimic-function
+³   ÃÄÄÄminimatch
+³   ÃÄÄÄminipass
+³   ÃÄÄÄminizlib
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄminipass
+³   ³       ÀÄÄÄyallist
+³   ÃÄÄÄmkdirp
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄmoment
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄlocale
+³   ³   ÃÄÄÄlocale
+³   ³   ÃÄÄÄmin
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÃÄÄÄcreate
+³   ³   ³   ³   ÃÄÄÄduration
+³   ³   ³   ³   ÃÄÄÄformat
+³   ³   ³   ³   ÃÄÄÄlocale
+³   ³   ³   ³   ÃÄÄÄmoment
+³   ³   ³   ³   ÃÄÄÄparse
+³   ³   ³   ³   ÃÄÄÄunits
+³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ÀÄÄÄlocale
+³   ³   ÀÄÄÄts3.1-typings
+³   ÃÄÄÄmotion-dom
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ÀÄÄÄes
+³   ³           ÃÄÄÄanimation
+³   ³           ³   ÃÄÄÄdrivers
+³   ³           ³   ÃÄÄÄgenerators
+³   ³           ³   ³   ÃÄÄÄspring
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄkeyframes
+³   ³           ³   ³   ÃÄÄÄoffsets
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄutils
+³   ³           ³   ÀÄÄÄwaapi
+³   ³           ³       ÃÄÄÄeasing
+³   ³           ³       ÃÄÄÄsupports
+³   ³           ³       ÀÄÄÄutils
+³   ³           ÃÄÄÄeffects
+³   ³           ³   ÃÄÄÄattr
+³   ³           ³   ÃÄÄÄprop
+³   ³           ³   ÃÄÄÄstyle
+³   ³           ³   ÃÄÄÄsvg
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÃÄÄÄframeloop
+³   ³           ÃÄÄÄgestures
+³   ³           ³   ÃÄÄÄdrag
+³   ³           ³   ³   ÀÄÄÄstate
+³   ³           ³   ÃÄÄÄpress
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÃÄÄÄrender
+³   ³           ³   ÃÄÄÄdom
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÃÄÄÄresize
+³   ³           ÃÄÄÄscroll
+³   ³           ÃÄÄÄstats
+³   ³           ÃÄÄÄutils
+³   ³           ³   ÃÄÄÄmix
+³   ³           ³   ÀÄÄÄsupports
+³   ³           ÃÄÄÄvalue
+³   ³           ³   ÃÄÄÄtypes
+³   ³           ³   ³   ÃÄÄÄcolor
+³   ³           ³   ³   ÃÄÄÄcomplex
+³   ³           ³   ³   ÃÄÄÄmaps
+³   ³           ³   ³   ÃÄÄÄnumbers
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÀÄÄÄview
+³   ³               ÀÄÄÄutils
+³   ÃÄÄÄmotion-utils
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ÀÄÄÄes
+³   ³           ÀÄÄÄeasing
+³   ³               ÃÄÄÄmodifiers
+³   ³               ÀÄÄÄutils
+³   ÃÄÄÄms
+³   ÃÄÄÄnanoid
+³   ³   ÃÄÄÄasync
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄnon-secure
+³   ³   ÀÄÄÄurl-alphabet
+³   ÃÄÄÄnative-run
+³   ³   ÃÄÄÄassets
+³   ³   ³   ÀÄÄÄandroid
+³   ³   ³       ÀÄÄÄskins
+³   ³   ³           ÃÄÄÄnexus_5x
+³   ³   ³           ÃÄÄÄpixel
+³   ³   ³           ÃÄÄÄpixel_2
+³   ³   ³           ÀÄÄÄpixel_3
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄandroid
+³   ³       ³   ÀÄÄÄutils
+³   ³       ³       ÀÄÄÄsdk
+³   ³       ÃÄÄÄios
+³   ³       ³   ÃÄÄÄlib
+³   ³       ³   ³   ÃÄÄÄclient
+³   ³       ³   ³   ÀÄÄÄprotocol
+³   ³       ³   ÀÄÄÄutils
+³   ³       ÀÄÄÄutils
+³   ÃÄÄÄnatural-compare
+³   ÃÄÄÄnode-releases
+³   ³   ÀÄÄÄdata
+³   ³       ÃÄÄÄprocessed
+³   ³       ÀÄÄÄrelease-schedule
+³   ÃÄÄÄobject-assign
+³   ÃÄÄÄopen
+³   ÃÄÄÄoption
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄoptionator
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄp-limit
+³   ÃÄÄÄp-locate
+³   ÃÄÄÄpako
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄutils
+³   ³       ÀÄÄÄzlib
+³   ÃÄÄÄparent-module
+³   ÃÄÄÄpath-exists
+³   ÃÄÄÄpath-is-absolute
+³   ÃÄÄÄpath-key
+³   ÃÄÄÄpath-scurry
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcommonjs
+³   ³   ³   ÀÄÄÄesm
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄlru-cache
+³   ³       ³   ÀÄÄÄdist
+³   ³       ³       ÃÄÄÄcommonjs
+³   ³       ³       ÀÄÄÄesm
+³   ³       ÀÄÄÄminipass
+³   ³           ÀÄÄÄdist
+³   ³               ÃÄÄÄcommonjs
+³   ³               ÀÄÄÄesm
+³   ÃÄÄÄpend
+³   ÃÄÄÄperformance-now
+³   ³   ÃÄÄÄlib
+³   ³   ÃÄÄÄsrc
+³   ³   ÀÄÄÄtest
+³   ³       ÀÄÄÄscripts
+³   ÃÄÄÄpicocolors
+³   ÃÄÄÄpicomatch
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpizzip
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄes6
+³   ³   ÃÄÄÄjs
+³   ³   ÃÄÄÄutils
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄes6
+³   ³   ÀÄÄÄvendor
+³   ÃÄÄÄplist
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄworkflows
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄexamples
+³   ³   ³   ÀÄÄÄbrowser
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄ@xmldom
+³   ³       ³   ÀÄÄÄxmldom
+³   ³       ³       ÀÄÄÄlib
+³   ³       ÀÄÄÄxmlbuilder
+³   ³           ÃÄÄÄ.vscode
+³   ³           ÃÄÄÄlib
+³   ³           ÃÄÄÄperf
+³   ³           ³   ÀÄÄÄbasic
+³   ³           ÀÄÄÄtypings
+³   ÃÄÄÄpostcss
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄprelude-ls
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄprocess-nextick-args
+³   ÃÄÄÄprompts
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄdateparts
+³   ³   ³   ÃÄÄÄelements
+³   ³   ³   ÀÄÄÄutil
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄdateparts
+³   ³   ³   ÃÄÄÄelements
+³   ³   ³   ÀÄÄÄutil
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÀÄÄÄkleur
+³   ÃÄÄÄprop-types
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpunycode
+³   ÃÄÄÄraf
+³   ÃÄÄÄreact
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄreact-clock
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄshared
+³   ³   ÀÄÄÄsrc
+³   ³       ÀÄÄÄshared
+³   ÃÄÄÄreact-datetime
+³   ³   ÃÄÄÄcss
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄtypings
+³   ÃÄÄÄreact-dom
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄreact-fit
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ³       ÀÄÄÄ__snapshots__
+³   ÃÄÄÄreact-icons
+³   ³   ÃÄÄÄai
+³   ³   ÃÄÄÄbi
+³   ³   ÃÄÄÄbs
+³   ³   ÃÄÄÄcg
+³   ³   ÃÄÄÄci
+³   ³   ÃÄÄÄdi
+³   ³   ÃÄÄÄfa
+³   ³   ÃÄÄÄfa6
+³   ³   ÃÄÄÄfc
+³   ³   ÃÄÄÄfi
+³   ³   ÃÄÄÄgi
+³   ³   ÃÄÄÄgo
+³   ³   ÃÄÄÄgr
+³   ³   ÃÄÄÄhi
+³   ³   ÃÄÄÄhi2
+³   ³   ÃÄÄÄim
+³   ³   ÃÄÄÄio
+³   ³   ÃÄÄÄio5
+³   ³   ÃÄÄÄlia
+³   ³   ÃÄÄÄlib
+³   ³   ÃÄÄÄlu
+³   ³   ÃÄÄÄmd
+³   ³   ÃÄÄÄpi
+³   ³   ÃÄÄÄri
+³   ³   ÃÄÄÄrx
+³   ³   ÃÄÄÄsi
+³   ³   ÃÄÄÄsl
+³   ³   ÃÄÄÄtb
+³   ³   ÃÄÄÄtfi
+³   ³   ÃÄÄÄti
+³   ³   ÃÄÄÄvsc
+³   ³   ÀÄÄÄwi
+³   ÃÄÄÄreact-is
+³   ³   ÃÄÄÄcjs
+³   ³   ÀÄÄÄumd
+³   ÃÄÄÄreact-refresh
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄreact-router
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄdevelopment
+³   ³       ³   ÀÄÄÄlib
+³   ³       ³       ÀÄÄÄtypes
+³   ³       ÀÄÄÄproduction
+³   ³           ÀÄÄÄlib
+³   ³               ÀÄÄÄtypes
+³   ÃÄÄÄreact-router-dom
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄreact-time-picker
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄshared
+³   ³   ³   ÀÄÄÄTimeInput
+³   ³   ÀÄÄÄsrc
+³   ³       ÃÄÄÄshared
+³   ³       ÀÄÄÄTimeInput
+³   ÃÄÄÄreact-to-print
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄhooks
+³   ³       ÃÄÄÄtypes
+³   ³       ÀÄÄÄutils
+³   ÃÄÄÄreadable-stream
+³   ³   ÃÄÄÄdoc
+³   ³   ³   ÀÄÄÄwg-meetings
+³   ³   ÀÄÄÄlib
+³   ³       ÀÄÄÄinternal
+³   ³           ÀÄÄÄstreams
+³   ÃÄÄÄregenerator-runtime
+³   ÃÄÄÄresolve-from
+³   ÃÄÄÄrgbcolor
+³   ÃÄÄÄrimraf
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ³   ÀÄÄÄsrc
+³   ³       ÀÄÄÄmjs
+³   ÃÄÄÄrollup
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄbin
+³   ³       ÃÄÄÄes
+³   ³       ³   ÀÄÄÄshared
+³   ³       ÀÄÄÄshared
+³   ÃÄÄÄrxjs
+³   ³   ÃÄÄÄadd
+³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ³   ÀÄÄÄdom
+³   ³   ³   ÀÄÄÄoperator
+³   ³   ÃÄÄÄajax
+³   ³   ÃÄÄÄbundles
+³   ³   ÃÄÄÄfetch
+³   ³   ÃÄÄÄinternal
+³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ³   ÀÄÄÄdom
+³   ³   ³   ÃÄÄÄoperators
+³   ³   ³   ÃÄÄÄscheduled
+³   ³   ³   ÃÄÄÄscheduler
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtesting
+³   ³   ³   ÀÄÄÄutil
+³   ³   ÃÄÄÄinternal-compatibility
+³   ³   ÃÄÄÄmigrations
+³   ³   ³   ÀÄÄÄupdate-6_0_0
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄtslib
+³   ³   ³       ÃÄÄÄmodules
+³   ³   ³       ÀÄÄÄtest
+³   ³   ³           ÀÄÄÄvalidateModuleExportsMatchCommonJS
+³   ³   ÃÄÄÄobservable
+³   ³   ³   ÀÄÄÄdom
+³   ³   ÃÄÄÄoperator
+³   ³   ÃÄÄÄoperators
+³   ³   ÃÄÄÄscheduler
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄadd
+³   ³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ³   ³   ÀÄÄÄdom
+³   ³   ³   ³   ÀÄÄÄoperator
+³   ³   ³   ÃÄÄÄajax
+³   ³   ³   ÃÄÄÄfetch
+³   ³   ³   ÃÄÄÄinternal
+³   ³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ³   ³   ÀÄÄÄdom
+³   ³   ³   ³   ÃÄÄÄoperators
+³   ³   ³   ³   ÃÄÄÄscheduled
+³   ³   ³   ³   ÃÄÄÄscheduler
+³   ³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ³   ÃÄÄÄtesting
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÃÄÄÄinternal-compatibility
+³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ³   ÀÄÄÄdom
+³   ³   ³   ÃÄÄÄoperator
+³   ³   ³   ÃÄÄÄoperators
+³   ³   ³   ÃÄÄÄscheduler
+³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ÃÄÄÄtesting
+³   ³   ³   ÃÄÄÄutil
+³   ³   ³   ÀÄÄÄwebSocket
+³   ³   ÃÄÄÄsymbol
+³   ³   ÃÄÄÄtesting
+³   ³   ÃÄÄÄutil
+³   ³   ÃÄÄÄwebSocket
+³   ³   ÃÄÄÄ_esm2015
+³   ³   ³   ÃÄÄÄajax
+³   ³   ³   ÃÄÄÄfetch
+³   ³   ³   ÃÄÄÄinternal
+³   ³   ³   ³   ÃÄÄÄobservable
+³   ³   ³   ³   ³   ÀÄÄÄdom
+³   ³   ³   ³   ÃÄÄÄoperators
+³   ³   ³   ³   ÃÄÄÄscheduled
+³   ³   ³   ³   ÃÄÄÄscheduler
+³   ³   ³   ³   ÃÄÄÄsymbol
+³   ³   ³   ³   ÃÄÄÄtesting
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÃÄÄÄinternal-compatibility
+³   ³   ³   ÃÄÄÄoperators
+³   ³   ³   ÃÄÄÄtesting
+³   ³   ³   ÀÄÄÄwebSocket
+³   ³   ÀÄÄÄ_esm5
+³   ³       ÃÄÄÄajax
+³   ³       ÃÄÄÄfetch
+³   ³       ÃÄÄÄinternal
+³   ³       ³   ÃÄÄÄobservable
+³   ³       ³   ³   ÀÄÄÄdom
+³   ³       ³   ÃÄÄÄoperators
+³   ³       ³   ÃÄÄÄscheduled
+³   ³       ³   ÃÄÄÄscheduler
+³   ³       ³   ÃÄÄÄsymbol
+³   ³       ³   ÃÄÄÄtesting
+³   ³       ³   ÀÄÄÄutil
+³   ³       ÃÄÄÄinternal-compatibility
+³   ³       ÃÄÄÄoperators
+³   ³       ÃÄÄÄtesting
+³   ³       ÀÄÄÄwebSocket
+³   ÃÄÄÄsafe-buffer
+³   ÃÄÄÄsax
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄscheduler
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄsemver
+³   ³   ÀÄÄÄbin
+³   ÃÄÄÄset-cookie-parser
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄsetimmediate
+³   ÃÄÄÄshebang-command
+³   ÃÄÄÄshebang-regex
+³   ÃÄÄÄsignal-exit
+³   ÃÄÄÄsisteransi
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄslice-ansi
+³   ÃÄÄÄsource-map-js
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄsplit2
+³   ÃÄÄÄsprintf-js
+³   ³   ÃÄÄÄdemo
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄsrc
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄsql.js
+³   ³   ÃÄÄÄ.devcontainer
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄstackblur-canvas
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄstring-width
+³   ÃÄÄÄstring_decoder
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄstrip-ansi
+³   ÃÄÄÄstrip-json-comments
+³   ÃÄÄÄsupports-color
+³   ÃÄÄÄsvg-pathdata
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄtar
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄminipass
+³   ³       ÀÄÄÄyallist
+³   ÃÄÄÄtext-segmentation
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄthrough2
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÀÄÄÄreadable-stream
+³   ³           ÀÄÄÄlib
+³   ³               ÀÄÄÄinternal
+³   ³                   ÀÄÄÄstreams
+³   ÃÄÄÄtinyglobby
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄtree-kill
+³   ÃÄÄÄtslib
+³   ³   ÀÄÄÄmodules
+³   ÃÄÄÄtype-check
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄunderscore
+³   ³   ÃÄÄÄamd
+³   ³   ÃÄÄÄcjs
+³   ³   ÀÄÄÄmodules
+³   ÃÄÄÄundici-types
+³   ÃÄÄÄuniversalify
+³   ÃÄÄÄuntildify
+³   ÃÄÄÄupdate-browserslist-db
+³   ÃÄÄÄupdate-input-width
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcjs
+³   ³   ³   ÀÄÄÄesm
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄuri-js
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄes5
+³   ³       ÀÄÄÄesnext
+³   ³           ÀÄÄÄschemes
+³   ÃÄÄÄutil-deprecate
+³   ÃÄÄÄutrie
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄvite
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄclient
+³   ³   ³   ÀÄÄÄnode
+³   ³   ³       ÀÄÄÄchunks
+³   ³   ÃÄÄÄmisc
+³   ³   ÀÄÄÄtypes
+³   ³       ÀÄÄÄinternal
+³   ÃÄÄÄwarning
+³   ÃÄÄÄwhich
+³   ³   ÀÄÄÄbin
+³   ÃÄÄÄword-wrap
+³   ÃÄÄÄwrap-ansi
+³   ÃÄÄÄxml2js
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÀÄÄÄxmlbuilder
+³   ³           ÃÄÄÄlib
+³   ³           ÀÄÄÄtypings
+³   ÃÄÄÄxmlbuilder
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄyallist
+³   ÃÄÄÄyauzl
+³   ÀÄÄÄyocto-queue
+ÃÄÄÄpublic
+³   ÃÄÄÄapks
+³   ÃÄÄÄfonts
+³   ÀÄÄÄimages
+ÃÄÄÄsrc
+³   ÃÄÄÄassets
+³   ³   ÀÄÄÄfonts
+³   ÃÄÄÄbills
+³   ÃÄÄÄcomponents
+³   ÃÄÄÄpages
+³   ÃÄÄÄservices
+³   ÀÄÄÄutils
+ÀÄÄÄtirumala-printer
+    ÃÄÄÄnode_modules
+    ³   ÃÄÄÄ.bin
+    ³   ÃÄÄÄ@netflix
+    ³   ³   ÀÄÄÄnerror
+    ³   ³       ÀÄÄÄlib
+    ³   ÃÄÄÄ@nodelib
+    ³   ³   ÃÄÄÄfs.scandir
+    ³   ³   ³   ÀÄÄÄout
+    ³   ³   ³       ÃÄÄÄadapters
+    ³   ³   ³       ÃÄÄÄproviders
+    ³   ³   ³       ÃÄÄÄtypes
+    ³   ³   ³       ÀÄÄÄutils
+    ³   ³   ÃÄÄÄfs.stat
+    ³   ³   ³   ÀÄÄÄout
+    ³   ³   ³       ÃÄÄÄadapters
+    ³   ³   ³       ÃÄÄÄproviders
+    ³   ³   ³       ÀÄÄÄtypes
+    ³   ³   ÀÄÄÄfs.walk
+    ³   ³       ÀÄÄÄout
+    ³   ³           ÃÄÄÄproviders
+    ³   ³           ÃÄÄÄreaders
+    ³   ³           ÀÄÄÄtypes
+    ³   ÃÄÄÄ@xmldom
+    ³   ³   ÀÄÄÄxmldom
+    ³   ³       ÀÄÄÄlib
+    ³   ÃÄÄÄabbrev
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄandroid-versions
+    ³   ³   ÃÄÄÄ.circleci
+    ³   ³   ÀÄÄÄtests
+    ³   ÃÄÄÄansi
+    ³   ³   ÃÄÄÄexamples
+    ³   ³   ³   ÃÄÄÄbeep
+    ³   ³   ³   ÃÄÄÄclear
+    ³   ³   ³   ÀÄÄÄprogress
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄassert-plus
+    ³   ÃÄÄÄbase64-js
+    ³   ÃÄÄÄbig-integer
+    ³   ÃÄÄÄbplist-parser
+    ³   ÃÄÄÄbraces
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄcordova-android
+    ³   ³   ÃÄÄÄframework
+    ³   ³   ³   ÃÄÄÄgradle
+    ³   ³   ³   ³   ÀÄÄÄwrapper
+    ³   ³   ³   ÀÄÄÄsrc
+    ³   ³   ³       ÀÄÄÄorg
+    ³   ³   ³           ÀÄÄÄapache
+    ³   ³   ³               ÀÄÄÄcordova
+    ³   ³   ³                   ÃÄÄÄallowlist
+    ³   ³   ³                   ÀÄÄÄengine
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÃÄÄÄbuilders
+    ³   ³   ³   ÃÄÄÄconfig
+    ³   ³   ³   ÀÄÄÄenv
+    ³   ³   ÃÄÄÄtemplates
+    ³   ³   ³   ÃÄÄÄcordova
+    ³   ³   ³   ³   ÀÄÄÄlib
+    ³   ³   ³   ÀÄÄÄproject
+    ³   ³   ³       ÃÄÄÄapp
+    ³   ³   ³       ÃÄÄÄassets
+    ³   ³   ³       ³   ÀÄÄÄwww
+    ³   ³   ³       ³       ÃÄÄÄcss
+    ³   ³   ³       ³       ÃÄÄÄimg
+    ³   ³   ³       ³       ÀÄÄÄjs
+    ³   ³   ³       ÃÄÄÄres
+    ³   ³   ³       ³   ÃÄÄÄdrawable
+    ³   ³   ³       ³   ÃÄÄÄmipmap-hdpi
+    ³   ³   ³       ³   ÃÄÄÄmipmap-hdpi-v26
+    ³   ³   ³       ³   ÃÄÄÄmipmap-ldpi
+    ³   ³   ³       ³   ÃÄÄÄmipmap-ldpi-v26
+    ³   ³   ³       ³   ÃÄÄÄmipmap-mdpi
+    ³   ³   ³       ³   ÃÄÄÄmipmap-mdpi-v26
+    ³   ³   ³       ³   ÃÄÄÄmipmap-xhdpi
+    ³   ³   ³       ³   ÃÄÄÄmipmap-xhdpi-v26
+    ³   ³   ³       ³   ÃÄÄÄmipmap-xxhdpi
+    ³   ³   ³       ³   ÃÄÄÄmipmap-xxhdpi-v26
+    ³   ³   ³       ³   ÃÄÄÄmipmap-xxxhdpi
+    ³   ³   ³       ³   ÃÄÄÄmipmap-xxxhdpi-v26
+    ³   ³   ³       ³   ÃÄÄÄvalues
+    ³   ³   ³       ³   ÀÄÄÄxml
+    ³   ³   ³       ÀÄÄÄtools
+    ³   ³   ÀÄÄÄtypes
+    ³   ÃÄÄÄcordova-common
+    ³   ³   ÀÄÄÄsrc
+    ³   ³       ÃÄÄÄConfigChanges
+    ³   ³       ÃÄÄÄConfigParser
+    ³   ³       ÃÄÄÄPluginInfo
+    ³   ³       ÀÄÄÄutil
+    ³   ÃÄÄÄcross-spawn
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÀÄÄÄutil
+    ³   ³   ÀÄÄÄnode_modules
+    ³   ³       ÃÄÄÄ.bin
+    ³   ³       ÃÄÄÄisexe
+    ³   ³       ³   ÀÄÄÄtest
+    ³   ³       ÀÄÄÄwhich
+    ³   ³           ÀÄÄÄbin
+    ³   ÃÄÄÄdedent
+    ³   ³   ÀÄÄÄdist
+    ³   ÃÄÄÄelementtree
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ³   ÀÄÄÄparsers
+    ³   ³   ÀÄÄÄtests
+    ³   ³       ÀÄÄÄdata
+    ³   ÃÄÄÄendent
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ÃÄÄÄnode_modules
+    ³   ³   ³   ÀÄÄÄdedent
+    ³   ³   ³       ÀÄÄÄdist
+    ³   ³   ÀÄÄÄsrc
+    ³   ÃÄÄÄexeca
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄextsprintf
+    ³   ³   ÃÄÄÄlib
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄfast-glob
+    ³   ³   ÀÄÄÄout
+    ³   ³       ÃÄÄÄmanagers
+    ³   ³       ÃÄÄÄproviders
+    ³   ³       ³   ÃÄÄÄfilters
+    ³   ³       ³   ÃÄÄÄmatchers
+    ³   ³       ³   ÀÄÄÄtransformers
+    ³   ³       ÃÄÄÄreaders
+    ³   ³       ÃÄÄÄtypes
+    ³   ³       ÀÄÄÄutils
+    ³   ÃÄÄÄfast-json-parse
+    ³   ÃÄÄÄfastq
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ³   ÀÄÄÄworkflows
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄfill-range
+    ³   ÃÄÄÄget-stream
+    ³   ÃÄÄÄglob-parent
+    ³   ÃÄÄÄhuman-signals
+    ³   ³   ÀÄÄÄbuild
+    ³   ³       ÀÄÄÄsrc
+    ³   ÃÄÄÄis-extglob
+    ³   ÃÄÄÄis-glob
+    ³   ÃÄÄÄis-number
+    ³   ÃÄÄÄis-path-inside
+    ³   ÃÄÄÄis-stream
+    ³   ÃÄÄÄisexe
+    ³   ³   ÀÄÄÄdist
+    ³   ³       ÃÄÄÄcjs
+    ³   ³       ÀÄÄÄmjs
+    ³   ÃÄÄÄlodash
+    ³   ³   ÀÄÄÄfp
+    ³   ÃÄÄÄlodash.zip
+    ³   ÃÄÄÄmerge-stream
+    ³   ÃÄÄÄmerge2
+    ³   ÃÄÄÄmicromatch
+    ³   ÃÄÄÄmimic-fn
+    ³   ÃÄÄÄnopt
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄnpm-run-path
+    ³   ÃÄÄÄobjectorarray
+    ³   ÃÄÄÄonetime
+    ³   ÃÄÄÄp-finally
+    ³   ÃÄÄÄp-try
+    ³   ÃÄÄÄpath-key
+    ³   ÃÄÄÄpicomatch
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄpify
+    ³   ÃÄÄÄplist
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ³   ÀÄÄÄworkflows
+    ³   ³   ÃÄÄÄdist
+    ³   ³   ÃÄÄÄexamples
+    ³   ³   ³   ÀÄÄÄbrowser
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄproperties-parser
+    ³   ³   ÀÄÄÄtest
+    ³   ÃÄÄÄq
+    ³   ÃÄÄÄqueue-microtask
+    ³   ÃÄÄÄread-chunk
+    ³   ÃÄÄÄreusify
+    ³   ³   ÃÄÄÄ.github
+    ³   ³   ³   ÀÄÄÄworkflows
+    ³   ³   ÀÄÄÄbenchmarks
+    ³   ÃÄÄÄrun-parallel
+    ³   ÃÄÄÄsax
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄsemver
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÃÄÄÄclasses
+    ³   ³   ÃÄÄÄfunctions
+    ³   ³   ÃÄÄÄinternal
+    ³   ³   ÀÄÄÄranges
+    ³   ÃÄÄÄshebang-command
+    ³   ÃÄÄÄshebang-regex
+    ³   ÃÄÄÄsignal-exit
+    ³   ÃÄÄÄstring-argv
+    ³   ³   ÀÄÄÄcommonjs
+    ³   ÃÄÄÄstrip-bom
+    ³   ÃÄÄÄstrip-final-newline
+    ³   ÃÄÄÄto-regex-range
+    ³   ÃÄÄÄuntildify
+    ³   ÃÄÄÄwhich
+    ³   ³   ÃÄÄÄbin
+    ³   ³   ÀÄÄÄlib
+    ³   ÃÄÄÄwith-open-file
+    ³   ÀÄÄÄxmlbuilder
+    ³       ÃÄÄÄ.vscode
+    ³       ÃÄÄÄlib
+    ³       ÃÄÄÄperf
+    ³       ³   ÀÄÄÄbasic
+    ³       ÀÄÄÄtypings
+    ÃÄÄÄplatforms
+    ³   ÀÄÄÄandroid
+    ³       ÃÄÄÄ.gradle
+    ³       ³   ÃÄÄÄ8.9
+    ³       ³   ³   ÃÄÄÄchecksums
+    ³       ³   ³   ÃÄÄÄdependencies-accessors
+    ³       ³   ³   ÃÄÄÄexecutionHistory
+    ³       ³   ³   ÃÄÄÄexpanded
+    ³       ³   ³   ÃÄÄÄfileChanges
+    ³       ³   ³   ÃÄÄÄfileHashes
+    ³       ³   ³   ÀÄÄÄvcsMetadata
+    ³       ³   ÃÄÄÄbuildOutputCleanup
+    ³       ³   ÀÄÄÄvcs-1
+    ³       ÃÄÄÄapp
+    ³       ³   ÀÄÄÄsrc
+    ³       ³       ÀÄÄÄmain
+    ³       ³           ÃÄÄÄassets
+    ³       ³           ³   ÀÄÄÄwww
+    ³       ³           ³       ÃÄÄÄcss
+    ³       ³           ³       ÃÄÄÄimg
+    ³       ³           ³       ÃÄÄÄjs
+    ³       ³           ³       ÀÄÄÄplugins
+    ³       ³           ³           ÀÄÄÄcordova-plugin-printer
+    ³       ³           ³               ÀÄÄÄwww
+    ³       ³           ÃÄÄÄjava
+    ³       ³           ³   ÃÄÄÄcom
+    ³       ³           ³   ³   ÀÄÄÄtirumala
+    ³       ³           ³   ³       ÀÄÄÄbilling
+    ³       ³           ³   ÀÄÄÄde
+    ³       ³           ³       ÀÄÄÄappplant
+    ³       ³           ³           ÀÄÄÄcordova
+    ³       ³           ³               ÀÄÄÄplugin
+    ³       ³           ³                   ÀÄÄÄprinter
+    ³       ³           ÃÄÄÄlibs
+    ³       ³           ÀÄÄÄres
+    ³       ³               ÃÄÄÄdrawable
+    ³       ³               ÃÄÄÄmipmap-hdpi
+    ³       ³               ÃÄÄÄmipmap-hdpi-v26
+    ³       ³               ÃÄÄÄmipmap-ldpi
+    ³       ³               ÃÄÄÄmipmap-ldpi-v26
+    ³       ³               ÃÄÄÄmipmap-mdpi
+    ³       ³               ÃÄÄÄmipmap-mdpi-v26
+    ³       ³               ÃÄÄÄmipmap-xhdpi
+    ³       ³               ÃÄÄÄmipmap-xhdpi-v26
+    ³       ³               ÃÄÄÄmipmap-xxhdpi
+    ³       ³               ÃÄÄÄmipmap-xxhdpi-v26
+    ³       ³               ÃÄÄÄmipmap-xxxhdpi
+    ³       ³               ÃÄÄÄmipmap-xxxhdpi-v26
+    ³       ³               ÃÄÄÄvalues
+    ³       ³               ÀÄÄÄxml
+    ³       ÃÄÄÄcordova
+    ³       ³   ÀÄÄÄlib
+    ³       ÃÄÄÄCordovaLib
+    ³       ³   ÀÄÄÄsrc
+    ³       ³       ÀÄÄÄorg
+    ³       ³           ÀÄÄÄapache
+    ³       ³               ÀÄÄÄcordova
+    ³       ³                   ÃÄÄÄallowlist
+    ³       ³                   ÀÄÄÄengine
+    ³       ÃÄÄÄplatform_www
+    ³       ³   ÀÄÄÄplugins
+    ³       ³       ÀÄÄÄcordova-plugin-printer
+    ³       ³           ÀÄÄÄwww
+    ³       ÀÄÄÄtools
+    ÃÄÄÄplugins
+    ³   ÀÄÄÄcordova-plugin-printer
+    ³       ÃÄÄÄsrc
+    ³       ³   ÃÄÄÄandroid
+    ³       ³   ÃÄÄÄbrowser
+    ³       ³   ÃÄÄÄios
+    ³       ³   ÃÄÄÄosx
+    ³       ³   ÀÄÄÄwindows
+    ³       ÀÄÄÄwww
+    ÀÄÄÄwww
+        ÃÄÄÄcss
+        ÃÄÄÄimg
+        ÀÄÄÄjs
